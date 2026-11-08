@@ -1,0 +1,2 @@
+Riff authenticated GitHub validation.
+Read-only review validation, with no merge or review messages.
